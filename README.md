@@ -1,2 +1,2 @@
 # python
-a simple code rgarding first week of Tensorflow bootcamp
+a simple code regarding first week of Tensorflow bootcamp
